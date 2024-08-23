@@ -1,0 +1,26 @@
+In Backend
+
+1. cd backend // for create package.json file
+2. npm init -y
+
+3. npm install express mysql2 sequelize cors
+4. npm install --save-dev nodemon 
+
+in Command Line => 
+for RUN BACKEND => NOTES APPLICATION/backend/INDEX.js
+
+
+database Details
+1. username = root
+2. pass = L7374@lkc
+3. Database Name = notes_app_db
+4. Tablename = notes
+
+
+For Frontend
+1. npm install react-router-dom and npm install axios 
+
+2. Use material UI in components so install also =>  npm i @mui/material
+
+Run frontend
+3. In command line go to => Notes Application/frontend/notes-app and then => npm start
