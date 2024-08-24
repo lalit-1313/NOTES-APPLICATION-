@@ -7,7 +7,7 @@ In Backend
 4. npm install --save-dev nodemon 
 
 in Command Line => 
-for RUN BACKEND => NOTES APPLICATION/backend/INDEX.js
+for RUN BACKEND => NOTES APPLICATION/backend/node INDEX.js
 
 
 database Details
